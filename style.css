@@ -65,6 +65,9 @@ article p {
 .attribution {
   color: hsl(228, 45%, 44%);
 }
+a {
+  color: hsl(228, 45%, 44%);
+}
 a:hover {
   opacity: 0.8;
 }
@@ -77,6 +80,7 @@ button {
   border: 3px solid transparent;
   padding: 1rem 1.7rem;
   font-size: inherit;
+  background-color: white;
 }
 button:hover {
   cursor: pointer;
